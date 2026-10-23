@@ -7,6 +7,7 @@ Collection of LeetCode solutions with optimized approaches, data structures, alg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/brahminee/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+| [1929-concatenation-of-array](https://github.com/brahminee/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,6 +16,7 @@ Collection of LeetCode solutions with optimized approaches, data structures, alg
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/brahminee/leetcode-solutions/tree/main/0682-baseball-game/) | Easy |
+| [1929-concatenation-of-array](https://github.com/brahminee/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
